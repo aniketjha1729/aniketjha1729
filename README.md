@@ -1,6 +1,6 @@
 ### Hi there, I'm Aniket -  [Aniket Jha][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Developer,Student and A Good Human Being!
 - 🔭 I’m currently working on a myself!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
