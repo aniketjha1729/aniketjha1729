@@ -1,4 +1,4 @@
-### Hi there, I'm Aniket -  [Aniket Jha][website] 👋
+### Hi there, I'm Aniket -  [Aniket Jha][http://aniketjha1729.herokuapp.com/] 👋
 
 ## I'm a Developer,Student and A Good Human Being!
 - 🔭 I’m currently working on a myself!
@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][http://aniketjha1729.herokuapp.com/]
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/aniketjha1729]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://linkedin.com/in/aniketjha1729]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/aniketjha1729]
 
 <br />
 
@@ -36,8 +36,8 @@
 
 
 
-[website]: http://aniketjha1729.herokuapp.com/
-[twitter]: https://twitter.com/aniketjha1729
-[youtube]: https://youtube.com/aniketjha1729
-[instagram]: https://instagram.com/aniketjha1729
-[linkedin]: https://linkedin.com/in/aniketjha1729
+
+
+
+
+
