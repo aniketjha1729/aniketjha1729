@@ -2,8 +2,7 @@
 
 ## I'm a Developer,Student and A Good Human Being!
 - 🔭 I’m currently working on a myself!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am not so funny!
 
 ### Connect with me:
