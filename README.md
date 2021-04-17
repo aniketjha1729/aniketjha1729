@@ -1,10 +1,5 @@
 ### Hi there, I'm Aniket -  [Aniket Kumar][website] 👋
 
-## I'm a Developer,Student and A Good Human Being!
-- 🔭 I’m currently working on a myself!
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am not so funny!
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
